@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkat9969
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning be tech 3rd year
+- 🌱 I’m currently learning be tech final year
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
